@@ -1,0 +1,44 @@
+<style>
+#test{
+
+}
+
+#myName {
+    height: 50px;
+    position: absolute;
+    left:30px;
+    top: 200px;
+}
+
+#designedFor {
+    height: 50px;
+    position: absolute;
+    left:30px;
+    top: 250px;
+}
+
+#dataResources {
+    position: absolute;
+    left:20px;
+    top: 300px;
+
+    width:250px;
+    float:left;
+    padding:10px; 
+}
+#vResources {
+    position: absolute;
+    left:300px;
+    top: 300px;
+
+    width:250px;
+    padding:10px; 
+}
+#references {
+    position: absolute;
+    left: 600px;
+    top: 300px;
+    width: 250px;
+    padding:10px; 
+}
+</style>
