@@ -3,24 +3,35 @@
 
 }
 
+#purpose {
+    position: relative;
+    top: 10px;
+}
+
+#dLine2 {
+    position: relative;
+    top: 10px;
+    align-self: center;
+}
+
 #myName {
     height: 50px;
-    position: absolute;
-    left:30px;
-    top: 200px;
+    position: relative;
+    left: 30px;
+    top: 10px;
 }
 
 #designedFor {
     height: 50px;
-    position: absolute;
+    position: relative;
     left:30px;
-    top: 250px;
+    top: 10px;
 }
 
 #dataResources {
     position: absolute;
     left:20px;
-    top: 300px;
+    top: 350px;
 
     width:250px;
     float:left;
@@ -29,7 +40,7 @@
 #vResources {
     position: absolute;
     left:300px;
-    top: 300px;
+    top: 350px;
 
     width:250px;
     padding:10px; 
@@ -37,7 +48,7 @@
 #references {
     position: absolute;
     left: 600px;
-    top: 300px;
+    top: 350px;
     width: 250px;
     padding:10px; 
 }
